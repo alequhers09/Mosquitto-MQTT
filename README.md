@@ -89,9 +89,10 @@ void loop() {
 Las capturas de pantalla adjuntas en el repositorio muestran:
 
 Conexión exitosa: Log del Monitor Serie del ESP32 confirmando la conexión al Wi-Fi y al Broker.
+<img width="554" height="107" alt="Publisher en ESP32" src="https://github.com/user-attachments/assets/cbb22674-924a-40b1-9387-0e74e05be4a9" />
 
 Recepción de datos: Terminal de la Raspberry Pi ejecutando mosquitto_sub -h localhost -t "escom/test" -v y mostrando los mensajes recibidos en tiempo real.
-<img width="700" height="251" alt="Captura de pantalla 2026-04-22 170605" src="https://github.com/user-attachments/assets/cc8b2c71-73c1-464b-b976-e35cb4c080ac" />
+<img width="443" height="107" alt="Captura de pantalla 2026-04-22 172126" src="https://github.com/user-attachments/assets/1cf563e0-081c-4236-9238-192d735b086f" />
 
 
 ##
