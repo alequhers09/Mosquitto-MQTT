@@ -43,7 +43,7 @@ void loop() {
   static unsigned long lastMsg = 0;
   if (millis() - lastMsg > 5000) {
     lastMsg = millis();
-    client.publish("escom/test", "Hola desde el ESP32 del inge");
+    client.publish("escom/test", "Hola desde el ESP32");
     Serial.println("Mensaje enviado a la Raspberry");
   }
 }
