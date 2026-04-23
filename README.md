@@ -1,10 +1,5 @@
 # 📡 Arquitectura IoT con MQTT usando Raspberry Pi y ESP32
 
-![IoT](https://img.shields.io/badge/IoT-MQTT-blue)
-![Plataforma](https://img.shields.io/badge/Plataforma-Raspberry%20Pi%20%7C%20ESP32-green)
-![Protocolo](https://img.shields.io/badge/Protocolo-MQTT-orange)
-![Estado](https://img.shields.io/badge/Estado-Funcionando-success)
-
 ---
 
 ## 📌 Descripción General
@@ -158,6 +153,7 @@ Se pueden observar los mensajes enviados desde el ESP32 en tiempo real.
 ## 🏫 Institución
 
 **Escuela Superior de Cómputo (ESCOM - IPN)**
+
 **Materia:** Internet de las Cosas / Embedded Systems (6CM3 26-1)
 
 ---
