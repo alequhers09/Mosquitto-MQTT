@@ -101,7 +101,7 @@ Desarrollado por:
    
    -Kendra Lizeth Torres Gomez
   
-   -Angelica 
+   -Angélica Alejandra Quevedo Hernández
   
    -Mario David Fabela Flores
 
