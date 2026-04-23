@@ -4,13 +4,13 @@
 
 ## 📌 Descripción General
 
-Este proyecto implementa una arquitectura básica de comunicación para aplicaciones de **Internet de las Cosas (IoT)** utilizando el protocolo **MQTT**.
+Este proyecto implementa una arquitectura básica de comunicación para aplicaciones de **Internet de las Cosas (IoT)** utilizando el protocolo **MQTT** con el objetivo de entender su funcionamiento en arquitecturas IoT y su integracióon con dispositivos embebidos.
 
 * Una **Raspberry Pi 3B+** funciona como **Broker MQTT**.
 * Un **ESP32** actúa como **Publisher**, enviando datos de forma periódica.
 * La comunicación se realiza a través de una **red Wi-Fi local**.
 
-Este modelo demuestra el uso del paradigma **publish/subscribe**, ideal para sistemas distribuidos y de bajo consumo.
+Este modelo demuestra el uso del paradigma **publish/subscribe**, ideal para sistemas distribuidos y de bajo consumo. 
 
 ---
 
