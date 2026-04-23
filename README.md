@@ -1,4 +1,4 @@
-# 📡 Arquitectura IoT con MQTT usando Raspberry Pi y ESP32
+# 📡 Instalación y Configuración de Mosquitto MQTT en Raspberry Pi con Publisher ESP32
 
 ---
 
