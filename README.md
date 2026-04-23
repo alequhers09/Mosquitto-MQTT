@@ -137,8 +137,8 @@ Ejecutar en la Raspberry Pi:
 ```bash
 mosquitto_sub -h localhost -t "escom/test" -v
 ```
-<img width="443" height="107" alt="Captura de pantalla 2026-04-22 172126" src="https://github.com/user-attachments/assets/1cf563e0-081c-4236-9238-192d735b086f" />
 Se pueden observar los mensajes enviados desde el ESP32 en tiempo real.
+<img width="443" height="107" alt="Captura de pantalla 2026-04-22 172126" src="https://github.com/user-attachments/assets/1cf563e0-081c-4236-9238-192d735b086f" />
 
 ---
 
